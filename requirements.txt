@@ -8,7 +8,6 @@ coverage==6.4.4
 cryptography==3.4.8
 dbus-python==1.2.18
 distlib==0.3.5
-duplicity==0.8.21
 Faker==14.2.0
 fasteners==0.14.1
 filelock==3.8.0
